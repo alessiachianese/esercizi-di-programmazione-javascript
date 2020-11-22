@@ -11,3 +11,19 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+var currentyear = 2020;
+var birthyear = 1966;
+var years = currentyear/birthyear;
+
+console.log(years);
+years = 54;
+
+var to100 = 100-years;
+
+console.log(to100);
+to100 = 46;
+
+
+
