@@ -12,3 +12,15 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+
+
+var seconds = 50000;
+var minutes = seconds/60;
+
+console.log(minutes);
+
+var hours = minutes/60
+
+console.log(hours);
