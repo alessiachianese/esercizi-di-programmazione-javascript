@@ -17,3 +17,13 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+var gatti = 40;
+var gattiperfila = 10;
+var nfile = gatti/gattiperfila;
+
+console.log(nfile);
+nfile = 4
+
+
